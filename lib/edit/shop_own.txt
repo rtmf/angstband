@@ -1,0 +1,89 @@
+# File: shop_own.txt
+
+
+# This file is used to initialize the "shop owner" information for Angband.
+
+# Do not modify this file unless you know exactly what you are doing,
+# unless you wish to risk possible system crashes and broken savefiles.
+
+
+# Format:
+# N:store number
+# S:purse:owner name
+
+
+# Version stamp (required)
+
+V:3.0.11
+
+# General Store
+N:0
+S:200:Flasher the Slow (Rabbit)
+S:300:Sani the Troublesome (Ringtail)
+S:400:Careena Blacktree (Hawk)
+S:600:Silverpad the Easy (Fox)
+S:600:Renald the Fifth (Cat)
+S:750:Shirakaze the Violent (Renamon)
+
+# Armoury
+N:1
+S:5000:Arhurrawl the Scarred (Gnoll)
+S:10000:Whitepaw the Talented (Fox)
+S:10000:Gladian Mage-Killer (Wolf)
+S:15000:Kuluthrakath the Red (Dragon)
+S:30000:Silenhal Etheldras (Kaisura)
+S:30000:Jaha Wraith-Slayer (Sergal)
+
+# Weapon Smith
+N:2
+S:5000:Dominus the Angry (Wolf)
+S:7500:Saeros the Tiger (Cat)
+S:10000:Razorwave Beast-Slayer (Shark)
+S:25000:Zarthenail Orc-Maimer (Dragon)
+S:25000:Drago the Warg (Wolf)
+S:30000:Raka Dragon-Slayer (Sergal)
+
+# Temple
+N:3
+S:5000:Darter the Gentle (Rabbit)
+S:12500:Skall Lightwing (Hawk)
+S:20000:Crysal Cliptail (Hawk)
+S:25000:Binder the White (Rabbit)
+S:30000:Thragnuil the Pious (Dragon)
+S:30000:Zalata the Glorious (Sergal)
+
+# Alchemist
+N:4
+S:7500:Redway the Drunk (Fox)
+S:10000:Masi the Curious (Ringtail)
+S:12500:Kimi Whiteflash (Ringtail)
+S:12500:Arendil the Thaumaturge (Kaisura)
+S:15000:Myoko the Bright (Renamon)
+S:15000:Adriana the Fair (Wolf)
+
+# Magic Shop
+N:5
+S:10000:Kasumi the Red Mage (Ringtail)
+S:15000:Ariel the Sorceress (Cat)
+S:17500:Curio the Mage (Wolf)
+S:20000:Raventail the Apprentice (Fox)
+S:25000:Kyo the Wildfire (Renamon)
+S:30000:Rathuil Nimrais (Kaisura)
+
+# Black Market
+N:6
+S:15000:Ris the Lazy (Ringtail)
+S:20000:Grayface the Sly (Fox)
+S:22500:Whiptail of the Axe (Shark)
+S:25000:Ruawarr the Shifty (Gnoll)
+S:27500:Cutter Orcbiter (Shark)
+S:30000:Krazz the Silver (Sergal)
+
+# Home
+N:7
+S:0:Your home
+S:0:Your home
+S:0:Your home
+S:0:Your home
+S:0:Your home
+S:0:Your home

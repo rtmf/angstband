@@ -1,0 +1,293 @@
+  [Angstband 0.1.0 Character Dump]
+
+ Name   Elen                                     Self  RB  CB  EB   Best
+ Sex    Female       Age             23   STR:     18  +4  +5  +1 18/100
+ Race   Dragon       Height          89   INT:     10  +0  -2  +0      8
+ Class  Warrior      Weight         285   WIS:     10  -2  -2  +1      7
+ Title  Veteran      Social     Unknown   DEX:     16  -2  +2  +0     16
+ HP     345/345      Maximize         Y   CON:     17  +4  +2  +0  18/50
+ SP     0/0                               CHR:     11  -2  -1  +0      8
+
+ Level               23   Armor    [62,+42]     Saving Throw         41%
+ Cur Exp          13033   Fight     (+4,+6)     Stealth              Bad
+ Max Exp          13033   Melee   (+10,+10)     Fighting          Heroic
+ Adv Exp          15300   Shoot   (+11,+12)     Shooting          Superb
+ MaxDepth    850' (L17)   Blows    3.3/turn     Disarming            41%
+ Game Turns      321126   Shots      2/turn     Magic Device          30
+ Standard Turns   32102   Infra       60 ft     Perception       1 in 38
+ Resting Turns      708   Speed      Normal     Searching            16%
+ Gold             19672   Burden  119.1 lbs
+
+ You are an outcast of a band of Highwaymen.  You were supported by the
+ Market.  You have black scales, silver eyes, and a long flowing mane.
+ You have a thin build.
+
+
+rAcid:............+ rConf:.............
+rElec:....+........ Sound:.............
+rFire:........+...+ Shard:.............
+rCold:............. Nexus:.............
+rPois:............+ Nethr:.............
+rFear:............+ Chaos:.............
+rLite:.........+... Disen:.............
+rDark:............. S.Dig:.............
+rBlnd:............. Feath:.............
+
+Light:.....+...+... Aggrv:.............
+Regen:............. Stea.:.............
+  ESP:............. Sear.:.............
+Invis:+............ Infra:............+
+FrAct:............. Tunn.:.............
+HLife:............. Speed:.............
+ImpHP:............. Blows:.............
+ImpSP:............. Shots:.+...........
+ Fear:............. Might:.............
+
+
+  [Character Equipment]
+
+a) a War Hammer of *Slay Undead* (3d3) (+6,+4) (+1)
+     Dropped by a Gnoll ranger at 600 feet (level 12).
+     
+     +1 wisdom.
+     *Slays* undead.
+     Grants the ability to see invisible things.  
+     
+     Combat info:
+     3.3 blows/round.
+     With an additional 2 strength and 0 dex you would get 3.4 blows
+     With an additional 0 strength and 3 dex you would get 3.7 blows
+     Average damage/round: 139.1 vs. undead, and 55.2 vs. others.
+     
+b) a Light Crossbow of Extra Shots (x3) (+7,+12) (+1)
+     Found lying on the floor at 800 feet (level 16).
+     
+     +1 shooting speed.
+     
+c) a Ring of Strength (+1)
+     Found lying on the floor at 600 feet (level 12).
+     
+     +1 strength.
+     Sustains strength.
+     
+d) a Ring of Protection [+9]
+     Bought from a store.
+     
+     
+     
+e) an Amulet of Resist Lightning
+     Dropped by a Gnoll ranger at 600 feet (level 12).
+     
+     Provides resistance to lightning.
+     Cannot be harmed by electricity.
+     
+f) a Lantern of Brightness (14211 turns)
+     Found lying on the floor at 850 feet (level 17).
+     
+     Cannot be harmed by fire.
+     
+     Radius 3 light.
+g) Augmented Chain Mail (-2) [42,+3]
+     Bought from a store.
+     
+     
+     
+h) a Cloak [1,+5]
+     Dropped by a Brown yeek at 750 feet (level 15).
+     
+     
+     
+i) a Small Metal Shield of Resist Fire [5,+8]
+     Dropped by Griven, the Slave Captain at 550 feet (level 11).
+     
+     Provides resistance to fire.
+     Cannot be harmed by fire.
+     
+j) an Iron Helm of Light [7,+7]
+     Bought from a store.
+     
+     Provides resistance to light.
+     
+     Radius 1 light.
+k) a Set of Gauntlets [3,+4]
+     Dropped by a Brown yeek at 750 feet (level 15).
+     
+     
+     
+l) a Pair of Iron Shod Boots [4,+5]
+     Found lying on the floor at 700 feet (level 14).
+     
+     
+     
+
+
+  [Character Quiver]
+
+n) 95 Bolts (1d5) (+0,+0)
+     Bought from a store.
+     
+     Combat info:
+     Hits targets up to 120 feet away.
+     Average damage/round: 90.8.
+     25% chance of breaking upon contact.
+     
+o) (nothing)
+p) (nothing)
+q) (nothing)
+r) (nothing)
+s) (nothing)
+t) (nothing)
+u) (nothing)
+v) (nothing)
+w) (nothing)
+
+
+  [Character Inventory]
+
+a) 6 Rations of Food
+     
+b) 14 Potions of Cure Serious Wounds
+     
+c) 4 Scrolls of Word of Recall
+     
+     
+d) a Rod of Treasure Location
+     
+     
+e) a Rod of Trap Location
+     
+     
+f) a Rod of Curing
+     Dropped by an unknown monster at 600 feet (level 12).
+     
+     
+     
+
+
+  [Home Inventory]
+
+a) a Potion of Cure Critical Wounds
+     Found lying on the floor at 600 feet (level 12).
+     
+     
+b) a Potion of Restore Strength
+     Bought from a store.
+     
+     
+     
+c) a Potion of Restore Wisdom
+     Dropped by a Gnoll ranger at 600 feet (level 12).
+     
+     
+     
+d) 2 Potions of Restore Dexterity
+     Bought from a store.
+     
+     
+     
+e) 2 Potions of Restore Constitution
+     
+     
+f) a Potion of Restore Charisma
+     Dropped by a Sergal priest at 600 feet (level 12).
+     
+     
+     
+g) a Potion of Nimbleness
+     Dropped by a Brigand at 850 feet (level 17).
+     
+     
+     
+h) 2 Potions of Toughness
+     
+     
+i) 6 Potions of Speed
+     
+     
+j) 2 Scrolls of Magic Mapping
+     Found lying on the floor at 550 feet (level 11).
+     
+     
+     
+k) 10 Scrolls of Identify
+     
+     
+l) a Rod of Cold Balls
+     Dropped by a Gnoll warrior at 600 feet (level 12).
+     
+     
+     
+m) a Staff of Identify (13 charges)
+     Bought from a store.
+     
+     
+n) a Ring of Resist Cold
+     Found lying on the floor at 550 feet (level 11).
+     
+     Provides resistance to cold.
+     Cannot be harmed by cold.
+     
+
+
+============================================================
+                   CHAR.
+|   TURN  | DEPTH |LEVEL| EVENT
+============================================================
+         1      0'    1   Began the quest to destroy Morgoth.
+      1706     50'    2   Reached level 2
+      2919    100'    3   Reached level 3
+      6761    150'    4   Reached level 4
+     11491    200'    5   Reached level 5
+     14692    200'    6   Reached level 6
+     27373    150'    7   Reached level 7
+     48237    250'    8   Reached level 8
+     69317    300'    9   Reached level 9
+     78942    400'   10   Reached level 10
+     91344    450'   11   Reached level 11
+    103028    500'   12   Reached level 12
+    115097    500'   13   Reached level 13
+    118289    550'   14   Reached level 14
+    121990    550'   15   Reached level 15
+    141091    550'   16   Reached level 16
+    151709    550'   16   Killed Griven, the Slave Captain
+    151709    550'   17   Reached level 17
+    164205    600'   18   Reached level 18
+    181149    600'   19   Reached level 19
+    196937    600'   19   Killed Zalakk, Captain of Conscripts
+    209570      0'   19   Killed The Dragoneer
+    216232    600'   20   Reached level 20
+    255772    700'   20   Killed Kitashume, Agent of Sarumon
+    257059    750'   21   Reached level 21
+    265175    750'   21   Killed Boldor, King of the Yeeks
+    276777    800'   22   Reached level 22
+    300291    850'   22   Killed Mughash the Kobold Lord
+    306994    850'   22   Killed Kumori the Black
+    307300    850'   23   Reached level 23
+
+
+  [Options]
+
+Maximize effect of race/class bonuses        : yes (adult_maximize)
+Randomize the artifacts (except a few)       : no  (adult_randarts)
+Restrict the use of stairs/recall            : no  (adult_ironman)
+Restrict the use of stores/home              : no  (adult_no_stores)
+Restrict creation of artifacts               : no  (adult_no_artifacts)
+Don't stack objects on the floor             : no  (adult_no_stacking)
+Lose artifacts when leaving level            : no  (adult_no_preserve)
+Don't generate connected stairs              : no  (adult_no_stairs)
+Don't show level feelings                    : no  (adult_no_feelings)
+Items always sell for 0 gold                 : no  (adult_no_selling)
+Adult: Monsters chase current location       : yes (adult_ai_sound)
+Adult: Monsters chase recent locations       : yes (adult_ai_smell)
+Adult: Monsters act smarter in groups        : yes (adult_ai_packs)
+Adult: Monsters learn from their mistakes    : no  (adult_ai_learn)
+Adult: Monsters exploit players weaknesses   : no  (adult_ai_cheat)
+Adult: Monsters behave more intelligently (broken): no  (adult_ai_smart)
+Score: Peek into object creation             : no  (score_peek)
+Score: Peek into monster creation            : no  (score_hear)
+Score: Peek into dungeon creation            : no  (score_room)
+Score: Peek into something else              : no  (score_xtra)
+Score: Know complete monster info            : no  (score_know)
+Score: Allow player to avoid death           : no  (score_live)
+
+
